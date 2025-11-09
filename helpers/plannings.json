@@ -1,0 +1,129 @@
+{
+  "lessonPlans": [
+    {
+      "id": 1,
+      "lessonPlanName": "Ecuaciones de Segundo Grado - Métodos de Solución",
+      "subject": "Matemáticas",
+      "grade": "9°A",
+      "creationDate": "2025-11-10",
+      "topic": "Ecuaciones Cuadráticas"
+    },
+    {
+      "id": 2,
+      "lessonPlanName": "El Romanticismo en la Literatura Latinoamericana",
+      "subject": "Lenguaje",
+      "grade": "10°A",
+      "creationDate": "2025-11-08",
+      "topic": "Movimientos Literarios"
+    },
+    {
+      "id": 3,
+      "lessonPlanName": "Reacciones Químicas: Tipos y Balanceo",
+      "subject": "Química",
+      "grade": "11°A",
+      "creationDate": "2025-11-05",
+      "topic": "Reacciones Químicas"
+    },
+    {
+      "id": 4,
+      "lessonPlanName": "Funciones Trigonométricas y sus Aplicaciones",
+      "subject": "Matemáticas",
+      "grade": "10°B",
+      "creationDate": "2025-11-03",
+      "topic": "Trigonometría"
+    },
+    {
+      "id": 5,
+      "lessonPlanName": "La Revolución Francesa: Causas y Consecuencias",
+      "subject": "Ciencias Sociales",
+      "grade": "8°A",
+      "creationDate": "2025-10-28",
+      "topic": "Revoluciones Modernas"
+    },
+    {
+      "id": 6,
+      "lessonPlanName": "Ecosistemas Colombianos y Biodiversidad",
+      "subject": "Biología",
+      "grade": "7°A",
+      "creationDate": "2025-10-25",
+      "topic": "Ecosistemas"
+    },
+    {
+      "id": 7,
+      "lessonPlanName": "Análisis Sintáctico de Oraciones Compuestas",
+      "subject": "Lenguaje",
+      "grade": "11°B",
+      "creationDate": "2025-10-20",
+      "topic": "Sintaxis"
+    },
+    {
+      "id": 8,
+      "lessonPlanName": "Ecuaciones Lineales con Dos Incógnitas",
+      "subject": "Matemáticas",
+      "grade": "9°B",
+      "creationDate": "2025-10-15",
+      "topic": "Sistemas de Ecuaciones"
+    },
+    {
+      "id": 9,
+      "lessonPlanName": "Tabla Periódica: Grupos y Periodos",
+      "subject": "Química",
+      "grade": "10°A",
+      "creationDate": "2025-10-12",
+      "topic": "Elementos Químicos"
+    },
+    {
+      "id": 10,
+      "lessonPlanName": "La Célula: Estructura y Función",
+      "subject": "Biología",
+      "grade": "6°A",
+      "creationDate": "2025-10-08",
+      "topic": "Biología Celular"
+    },
+    {
+      "id": 11,
+      "lessonPlanName": "Movimiento Rectilíneo Uniforme",
+      "subject": "Física",
+      "grade": "10°C",
+      "creationDate": "2025-10-05",
+      "topic": "Cinemática"
+    },
+    {
+      "id": 12,
+      "lessonPlanName": "El Modernismo en Colombia: José Asunción Silva",
+      "subject": "Lenguaje",
+      "grade": "11°A",
+      "creationDate": "2025-09-30",
+      "topic": "Literatura Colombiana"
+    },
+    {
+      "id": 13,
+      "lessonPlanName": "Estadística Descriptiva: Media, Mediana y Moda",
+      "subject": "Matemáticas",
+      "grade": "8°B",
+      "creationDate": "2025-09-25",
+      "topic": "Estadística"
+    },
+    {
+      "id": 14,
+      "lessonPlanName": "La Constitución de 1991 y sus Principios",
+      "subject": "Ciencias Sociales",
+      "grade": "9°C",
+      "creationDate": "2025-09-20",
+      "topic": "Democracia y Constitución"
+    },
+    {
+      "id": 15,
+      "lessonPlanName": "Fotosíntesis: Proceso y Factores",
+      "subject": "Biología",
+      "grade": "8°A",
+      "creationDate": "2025-09-15",
+      "topic": "Fisiología Vegetal"
+    }
+  ],
+  "metadata": {
+    "totalLessonPlans": 15,
+    "lastUpdate": "2025-11-10",
+    "version": "1.0"
+  }
+}
